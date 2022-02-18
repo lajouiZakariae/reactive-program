@@ -1,3 +1,5 @@
+/* I built This small Reactive Program. and I would like to hear suggestions and opinions from you */
+
 function MakeReactive(data) {
     this.data = data;
     this.observers = {};
